@@ -16,7 +16,7 @@ Basic IBM Cloud Mobile Starter in Java
 ### Summary
 
 The Basic IBM Cloud Mobile Starter project has integration points (by default) for Push Notification and Mobile Analytics services and it can also be extended to add other IBM Cloud Mobile services.
-
+   
 ### Requirements
 
 * A [Bluemix](http://bluemix.net) Account
